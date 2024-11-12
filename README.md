@@ -7,6 +7,7 @@ Approach
 Converted categorical variables like education level, city, gender, and benched status into numerical or dummy variables for analysis.
 ###### •	Modeling:
 o	Logistic Regression: Achieved 73% accuracy with high specificity (90%) but moderate sensitivity (42%).
+
 o	Linear Discriminant Analysis (LDA): Also achieved 73% accuracy, with balanced sensitivity (67%) and specificity (75%).
 ###### •	Evaluation: 
 Assessed each model’s sensitivity, specificity, precision, and AUC to compare their effectiveness in predicting employee turnover.
